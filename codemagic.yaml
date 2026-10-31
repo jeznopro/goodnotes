@@ -1,0 +1,24 @@
+workflows:
+  papernote-ipad:
+    name: PaperNote for iPad
+    max_build_duration: 120
+    instance_type: mac_mini_m2
+    environment:
+      xcode: latest
+      node: 24
+    scripts:
+      - name: Install dependencies
+        script: npm ci
+      - name: Build PaperNote and sync iPad project
+        script: npm run build:ios
+      - name: Compile unsigned iPad app
+        script: xcodebuild -project ios/App/App.xcodeproj -scheme App -sdk iphoneos -configuration Release -derivedDataPath "$CM_BUILD_DIR/build/ios/derived" CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY=""
+      - name: Package unsigned IPA
+        script: |
+          mkdir -p "$CM_BUILD_DIR/build/ios/ipa/Payload"
+          cp -R "$CM_BUILD_DIR/build/ios/derived/Build/Products/Release-iphoneos/App.app" "$CM_BUILD_DIR/build/ios/ipa/Payload/PaperNote.app"
+          cd "$CM_BUILD_DIR/build/ios/ipa"
+          zip -qr PaperNote-unsigned.ipa Payload
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log

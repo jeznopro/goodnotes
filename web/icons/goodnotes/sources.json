@@ -1,0 +1,224 @@
+{
+  "sourceApp": "Goodnotes for Windows 2.4.5.0",
+  "owner": "Goodnotes Limited",
+  "origin": "Static frontend icon assets from the locally installed application",
+  "icons": {
+    "pen": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 175400,
+      "sourceSvgSha256": "8f87ba6f3ab1e5d11492d964c2e179c8f19ad5f3d63947c9e4f0d138e494938e",
+      "geometrySha256": "e16db144ddeb969ea3f574f7d3da6ee4acf42d421e9a39007e62cd0c4c1210e0",
+      "fileSha256": "37bbe36292cbd23498ff3ab36593cd14cf7d7539e2cf032a3368fadede1ba0f7"
+    },
+    "fountain": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 184088,
+      "sourceSvgSha256": "0e3e8565eb238bf0a0565da12c44b2487cd4c5b79683d3be45da3b7e072fc142",
+      "geometrySha256": "e6c1118cde28b9da33185c8729f8af27a134569c3080fdb3a6f382b41579fa2a",
+      "fileSha256": "ae7b4ffc4983856ca8aaf830bf73cf2333b900915c30dd8e7e33ca8808909686"
+    },
+    "ball": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 182614,
+      "sourceSvgSha256": "ee52e980b82f67c6d453dc623e02bad9070611bb5b30922c6360753ed43d168a",
+      "geometrySha256": "0d65f625fb9d1011b396441704416c2586f01589aa7df767e868b25efef42dbb",
+      "fileSha256": "091227c83dcb6f97ef4b8ab20e8ff2a668e0446838d1ea22f03010e42b75b648"
+    },
+    "brush": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 209972,
+      "sourceSvgSha256": "b836e724719e4e0572d5235490827b6944aa9427c6a5e1fdfd2850f74086ced6",
+      "geometrySha256": "3cfcfdbd775b08715fe79deb33361bd778032aec209ddc0df0fbb62b281a6778",
+      "fileSha256": "bac40b1d55177f8305f0266959599bbeb386a834315a7367ff83a3be81deb42f"
+    },
+    "pencil": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 175400,
+      "sourceSvgSha256": "8f87ba6f3ab1e5d11492d964c2e179c8f19ad5f3d63947c9e4f0d138e494938e",
+      "geometrySha256": "e16db144ddeb969ea3f574f7d3da6ee4acf42d421e9a39007e62cd0c4c1210e0",
+      "fileSha256": "ad49e8de2a10681b9115223540efe086cc5d51e00acfa0c266c4f6a2aa915cec"
+    },
+    "eraser": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 240268,
+      "sourceSvgSha256": "b8c6a2ac014c11477e8660f38ee4b694604dd85be0f5675f6beb9bebbb8ccd11",
+      "geometrySha256": "3fd3101d453234818ca850cdf1e0b7d03d9b74e4d8abe7bd2e025339058f5ccb",
+      "fileSha256": "9fe5b244b886bde2354d6d9ad316aff4c7947cacd362bac7bb55c934d946aa87"
+    },
+    "text": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 230836,
+      "sourceSvgSha256": "cbcd9417c01b60edb2f4dec2a95efd8b57283a516270224ce288f4be26fb24d0",
+      "geometrySha256": "6ba1ed04284f994237a8e6c213be7bcfc2713bb65ea7a8c3044d6858776d743e",
+      "fileSha256": "681e47be46524f9dca0b490a51b0031f9700f10040d652fb3d3bcffe07934784"
+    },
+    "select": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 201338,
+      "sourceSvgSha256": "5320961e52c31c3eb2848e1ce13573541dd247bc383ae545dc12a08c41c475be",
+      "geometrySha256": "c17b6a913967884f8d5e6604bf5265e937cfaaf5488812d97e6ee7c2e95e5ea0",
+      "fileSha256": "b07ceb602fbf91a3e605fcd54ef7e95e2a82bc2f1a9cf043435b30e6ef22723e"
+    },
+    "sticker": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 191365,
+      "sourceSvgSha256": "b1ad65aa67b4218ba9762c889b34813edbc86d764d387ebfdb54f0ccbe9811f7",
+      "geometrySha256": "92ad255c16b662afc9a3c4abde2da837b105e188c4c85aac7aa8b3658ef5b2fb",
+      "fileSha256": "56c159b2fe01a0382400dfbb0af8e66c04eeaa2e51cc83b871f0ff17bd53f2d3"
+    },
+    "image": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 234477,
+      "sourceSvgSha256": "e9de2b22fb7635f4593cfcbd94aec33b1ee9e4d48b9c1959c90c519df8527471",
+      "geometrySha256": "bb34c711bf7a4d9361577a74b7dbe732f26499ae4e659044479cca981dd7b066",
+      "fileSha256": "e9ad5ae2dc07bb45a2d0dbabfd5213a4e32bcc16e70e386543caf3b98c75d2aa"
+    },
+    "shape": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 226720,
+      "sourceSvgSha256": "7ab7af231369970ea9da98f39e2613518e56f09bf152e4552e5691ed2bce7901",
+      "geometrySha256": "cfc89eba053c112605a2e422d502bf5118e496afa9079c9ab22ec40c37c5e5e5",
+      "fileSha256": "d6f1b40fceeac12b81ef02b682d432ef81f0ba2f53654a0ec79611709fdb959f"
+    },
+    "tape": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 244771,
+      "sourceSvgSha256": "ea6bd854d3b9a38c6a6d415c7946b79cbcb1254459760da31384628f863446e5",
+      "geometrySha256": "f2124bb8f2d0c10801ec5080df19f5bc5ea3ed6da8cea5e6ba1e9c8836d404e2",
+      "fileSha256": "ea4b3b183ddd94643cc89d02b54860d973f0061c56c71feeefa8f87e2d43b462"
+    },
+    "laser": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 239441,
+      "sourceSvgSha256": "3d4c36b7f6e0bc3ab535566218c715e79c62bab040a6ccd1b325fe2d2015200e",
+      "geometrySha256": "03f482cbb0245d95c43e45e14767cabcbb5f2d11ce43373d269f63b44d055233",
+      "fileSha256": "5dd9d969247573c36209bfc525428b440bb02c0720ab53372ba017dc497b8082"
+    },
+    "highlighter": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 199825,
+      "sourceSvgSha256": "72cb836a913c391da3f277417b59559797bf849c68ecd6d30edbc2d91973f720",
+      "geometrySha256": "06bd3927f5bae56e2eb3ce2e6e90f623b2cdee1b0bf16d61b372830c064cd226",
+      "fileSha256": "e681f9c8598df8138e6b24c81ebc43fb4375ba9c2ecb7e68487f4a6b6f0ce161"
+    },
+    "ruler": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 221281,
+      "sourceSvgSha256": "1d88345aa4433e0de63a3261a9ee16a237d9bfcacea272915df4b523bce9c31f",
+      "geometrySha256": "dd5b77896edc2c04fd71fcdec3e425c01d02918b31febce0c52cf00e0fa9b5d5",
+      "fileSha256": "40f52ced6cc6a65f0bea462590c82b24a89d2be365ba6cae3915e48464d477ab"
+    },
+    "sidebar": {
+      "source": "https://web.goodnotes.com/assets/DocumentProcessing-DifkHEn8.js",
+      "sourceOffset": 8024,
+      "sourceSvgSha256": "1c96f9dabd8b48e23153ca233082b4b788fe4f0d41a751691f018e3300c9d4f7",
+      "geometrySha256": "7e217955497221d475de7e0447b599f0a383313921c526ae9238e4b0cdde11e7",
+      "fileSha256": "c933b275ebd43851835019437df3e822cdf28162d6eca3c2203b319e01cf6a67"
+    },
+    "search": {
+      "source": "https://web.goodnotes.com/assets/marketplace-CahBIhxD.js",
+      "sourceOffset": 592572,
+      "sourceSvgSha256": "37bfd2004bf044d6df7d3f51ec33ad8fa78f7af338df3e30d1c0bf07605cc7ad",
+      "geometrySha256": "e0738152361d2b3214d220db159339414c8cecb5872447b8e9729442524198aa",
+      "fileSha256": "96a90213aea7aa19b1d9fbc01e2d806aa27462fac5af26bc95cad8b625255c24"
+    },
+    "document-view": {
+      "source": "https://web.goodnotes.com/assets/ic_caret-BKuZ-TtT.js",
+      "sourceOffset": 588006,
+      "sourceSvgSha256": "8b6f070ad9600f3981afd024e74d914ed93cafa9830092d3c6e3e8534e91b3fc",
+      "geometrySha256": "2ad2c50a9d248b9ac31e677541f4adca845f839742e82a338bc59daff3777f33",
+      "fileSha256": "21a8616f26cf1093bd0aad555905baa78c2f6147d6433e31e45d97dc0619f244"
+    },
+    "home": {
+      "source": "https://web.goodnotes.com/assets/TopBarTitle-bROoyemp.js",
+      "sourceOffset": 7826,
+      "sourceSvgSha256": "b6d24893600fa78acf59ad2831db31bb9589af00a7fda9baf69a7a38a8354c39",
+      "geometrySha256": "4f9daa9e4177c3448cbe5228a3e594f970a78a20e3e6d531fef067d2f2f23eee",
+      "fileSha256": "331ee8665886798c9c32790de191a92bfba275354fb8dc709c6a095242bca380"
+    },
+    "export": {
+      "source": "https://web.goodnotes.com/assets/marketplace-CahBIhxD.js",
+      "sourceOffset": 651087,
+      "sourceSvgSha256": "3808b7a33ea75aceebe35c7581a3cd658daeaa87fde3cacf1f3a3d19e639b4c3",
+      "geometrySha256": "2ad5a0a954a365be731bbec7447228bfe0985c651e5029d1cbea441686f626ec",
+      "fileSha256": "7fe838305372dc4556987960910e29b5312131653c08e04622e7b90d3b2dec2f"
+    },
+    "more": {
+      "source": "https://web.goodnotes.com/assets/NexusDocumentScreen-VAc7krzQ.js",
+      "sourceOffset": 13886,
+      "sourceSvgSha256": "909ea981d58ebe8ff051dcd92fe8034d84b556d01b6bbbfc5a8aaf6fab4902e5",
+      "geometrySha256": "a34a7122984ede3b8d4c21416245a896d5165d943c5bb34829d555ba4f980b9a",
+      "fileSha256": "b1e12eb569c3d9d5e8d53513dd18f910e2b3839c3df6c036a5fe13fee5a6106d"
+    },
+    "plus": {
+      "source": "https://web.goodnotes.com/assets/model-CKW_J7WJ.js",
+      "sourceOffset": 9944,
+      "sourceSvgSha256": "e2fc74007a1ce4a634fde1d3c54fc1bc792e818d7afa7c50f58659893d5874f1",
+      "geometrySha256": "79d61ff2bb6e6c6c13c860710d4919a3e4d01d5004d0ad9dc4bbae7c2ae28765",
+      "fileSha256": "09ecbfb9abbecaaff33234793dad42edcd0992e8fd74161a1b70292d75404ae4"
+    },
+    "plus-circle": {
+      "source": "https://web.goodnotes.com/assets/ic_plus_circle-B2s0_Ged.js",
+      "sourceOffset": 271322,
+      "sourceSvgSha256": "3bdc7fff5dffb4f9285a5420565d5938b663b924a9c42964aa46404f62d4d5fc",
+      "geometrySha256": "a8ea6cd8695be53177f01e77c17ccd6079a8a00de02620ba89b57e31175763b0",
+      "fileSha256": "0892c900cdd40db1c28cb32bb0dacc3a0ee9d6028f8b472ebc8058d881c83e4c"
+    },
+    "undo": {
+      "source": "https://web.goodnotes.com/assets/dist-B82FQVgf.js",
+      "sourceOffset": 5537280,
+      "sourceSvgSha256": "8502267d1d0da6be1f219e975afb860e64b7ed257b0ec59125281c28ce53f91a",
+      "geometrySha256": "c394676a7642e6c75f7b31bc8436f4190cff9ae35702e320910a37168889286c",
+      "fileSha256": "8850a6984e47edbd53905301ec45cfeabb3e78bc226de3e6f0fce3c8056b790b"
+    },
+    "redo": {
+      "source": "https://web.goodnotes.com/assets/state-CdbIvdHc.js",
+      "sourceOffset": 3496468,
+      "sourceSvgSha256": "0f6012bb44d854f9eba4ab4ce92d8cc0e645539a75574e89aba6d729ddeaa4d1",
+      "geometrySha256": "a4c1945013a9fdde6d539164018b9a80f78a3427c1bf49c58f62462813cab9e4",
+      "fileSha256": "3a2ae5079803ca3b90111421b038207853afacceae225de318bcef23c43ccbfe"
+    },
+    "down": {
+      "source": "https://web.goodnotes.com/assets/marketplace-CahBIhxD.js",
+      "sourceOffset": 146968,
+      "sourceSvgSha256": "da1ed9b52bb1b855ed67a98b5374795495beea651d1fda3231358d6cd4cc51ed",
+      "geometrySha256": "023292b4a1432831cddfe9e685b90110c41b84db9e59c2edb2fd6836933996ae",
+      "fileSha256": "de154395af80268c1020ae3ca9b4364bdd87c3a33af666f027c0d14546efc8ab"
+    },
+    "back": {
+      "source": "https://web.goodnotes.com/assets/marketplace-CahBIhxD.js",
+      "sourceOffset": 633511,
+      "sourceSvgSha256": "0b429a2dbbf5996205714bd12578720d8dc1a4856438c6e5b87da965892ef327",
+      "geometrySha256": "09ebf95b0fa129625736f24d5ce57e2579e0ffd523ed3054d1e7afa8efebef9a",
+      "fileSha256": "de3c9a25361c5cd0cda4af69dd93b0fba31fe8a70d54a90060ba00253a13bc14"
+    },
+    "chevron": {
+      "source": "https://web.goodnotes.com/assets/marketplace-CahBIhxD.js",
+      "sourceOffset": 633788,
+      "sourceSvgSha256": "d3bc15d91b22ce0e258bdbb5b1f1c4d237b6cb340d8d98563d9f697fb4662a75",
+      "geometrySha256": "85f84daca32c575a436b85d6a64015c090b5c7e2e944cda500cc4b40570e2fdd",
+      "fileSha256": "e1c80be756bd225a7b038fcbae00bd3a5f336811d8de8f47b8900ce517b4ff51"
+    },
+    "close": {
+      "source": "https://web.goodnotes.com/assets/marketplace-CahBIhxD.js",
+      "sourceOffset": 146670,
+      "sourceSvgSha256": "7cbfb528e5f81b4c534d27ae5167a5361c5fa8451fbef0f1c84d679639d9e88c",
+      "geometrySha256": "b8f933a15647ccab37de1ba27c557b61b9de25b1cd9d9883a615b58ccf216d5d",
+      "fileSha256": "3eaec26655373f327217e0cd917b7611ba80cca5e1de90fda95447682a10f4fb"
+    },
+    "layers": {
+      "source": "https://web.goodnotes.com/assets/TopBarSeparator-CZGY1zUp.js",
+      "sourceOffset": 354790,
+      "sourceSvgSha256": "3d49b3c0829d82a56a6c890266d45e1d1511c5aef551347ba9c716380c804046",
+      "geometrySha256": "c5b485d3ad00e843e552396ee0843377eb77cbade2f64cfdbde178033a713c55",
+      "fileSha256": "f0431124032f059091c40d538fd8c0d562c2a2fb37f93dba6569ee278cd9c752"
+    },
+    "eye": {
+      "source": "https://web.goodnotes.com/assets/NavigationTabBar-aCy9wgBa.js",
+      "sourceOffset": 5383,
+      "sourceSvgSha256": "925ee99987338c63ad5603ec271d24a7dd9fe2f24fd594208b11d5377551a662",
+      "geometrySha256": "5ea71b055422eb002b496e2f79f13c220f9389e80e97dfc66d0a27c3812ff215",
+      "fileSha256": "0182c4bc7124d7b0e07e05860d13ffcbb3ee5d8fd0ddb819c3cad3ac494ae35b"
+    }
+  }
+}
